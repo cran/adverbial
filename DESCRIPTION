@@ -1,7 +1,7 @@
 Package: adverbial
 Type: Package
 Title: Enhanced Adverbial Functions
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: 
     person(
         given = "Mizuki", 
@@ -16,14 +16,14 @@ Description: Provides new_partialised() and new_composed(), which extend
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: cli, pillar, purrr, rlang, vctrs
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 URL: https://github.com/UchidaMizuki/adverbial
 BugReports: https://github.com/UchidaMizuki/adverbial/issues
 Suggests: lifecycle, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-05-10 14:13:58 UTC; uchid
+Packaged: 2025-12-27 09:29:19 UTC; uchid
 Author: Mizuki Uchida [aut, cre]
 Maintainer: Mizuki Uchida <uchidamizuki@vivaldi.net>
 Repository: CRAN
-Date/Publication: 2025-05-13 08:30:06 UTC
+Date/Publication: 2026-01-17 00:10:02 UTC
